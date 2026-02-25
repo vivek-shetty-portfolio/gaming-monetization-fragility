@@ -113,3 +113,34 @@ This highlights the importance of diversified monetization strategies and strong
 - Synthetic Data Simulation  
 - Monetization Sensitivity Testing  
 - Business Interpretation of Analytical Results  
+
+
+## 🔎 Executive Insights
+
+### 1️⃣ Revenue Is Structurally Concentrated
+
+Although whales represent only 3% of the user base, they generate 85% of total revenue. The top 1% alone contributes over 42% of revenue. This indicates a highly unequal monetization structure.
+
+---
+
+### 2️⃣ Retention and Revenue Are Coupled
+
+D7 retention for non-whale segments is near zero, while whales exhibit comparatively higher survival. This implies long-term revenue sustainability depends almost entirely on high-value player retention.
+
+---
+
+### 3️⃣ Mid-Tier Monetization Buffer Is Weak
+
+Dolphins contribute ~13% of revenue, and minnows only ~2%. This weak mid-tier buffer increases systemic risk if whale behavior changes.
+
+---
+
+### 4️⃣ Revenue Survival Is Whale-Driven
+
+Only 27% of revenue accumulates by Day 7, but 50% is reached by Day 14. This suggests revenue persistence is tied to long-surviving high-value users rather than broad early monetization.
+
+---
+
+### 5️⃣ Monetization Fragility Is Multiplicative
+
+Revenue inequality (Gini = 0.95) combined with low long-term retention creates a fragile economic system. A moderate whale revenue shock results in disproportionate total revenue contraction.
