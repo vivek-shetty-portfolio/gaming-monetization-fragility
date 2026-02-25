@@ -105,16 +105,7 @@ This highlights the importance of diversified monetization strategies and strong
 
 ---
 
-## 8️⃣ Project Structure
-gaming_monetization_fragility/
-│
-├── data_raw/ # Simulated raw datasets
-├── src/ # Python data generation scripts
-├── sql/ # Analytical SQL queries
-├── README.md # Project documentation
-
-
-## 9️⃣ Skills Demonstrated
+## 8️⃣ Skills Demonstrated
 
 - Advanced SQL (CTEs, Window Functions, Running Totals)  
 - Revenue Concentration Modeling  
