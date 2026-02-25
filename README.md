@@ -125,7 +125,7 @@ Although whales represent only 3% of the user base, they generate 85% of total r
 
 ### 2️⃣ Retention and Revenue Are Coupled
 
-D7 retention for non-whale segments is near zero, while whales exhibit comparatively higher survival. This implies long-term revenue sustainability depends almost entirely on high-value player retention.
+D7 retention declines sharply for non-whale segments, while whale retention exhibits comparatively slower decay. This implies long-term revenue sustainability depends almost entirely on high-value player retention.
 
 ---
 
@@ -144,3 +144,17 @@ Only 27% of revenue accumulates by Day 7, but 50% is reached by Day 14. This sug
 ### 5️⃣ Monetization Fragility Is Multiplicative
 
 Revenue inequality (Gini = 0.95) combined with low long-term retention creates a fragile economic system. A moderate whale revenue shock results in disproportionate total revenue contraction.
+
+---
+
+### 6️⃣ Second-Order Fragility Risk
+
+Revenue concentration and retention decay interact multiplicatively. If whale retention declines marginally, overall revenue inequality increases further, amplifying systemic fragility. This creates second-order risk where small behavioral shifts in high-value users can disproportionately destabilize total revenue.
+
+## 📌 Metric Definitions & Assumptions
+
+- Retention is defined as session-based activity (presence of a session on a given day), not purchase-based retention.
+- Revenue is attributed based on `purchase_timestamp`, not install cohort aggregation.
+- Gini coefficient (overall) is computed across the full user population, including non-payers.
+- Whale segment is behaviorally simulated (top 3% revenue archetype), not defined by fixed monetary threshold.
+- Top 1% revenue share is calculated across the full user base, not only paying users.
